@@ -1,0 +1,5 @@
+dashboards:
+- id: Filebeat-trendmicro-apexone-Dashboard
+  file: Filebeat-trendmicro-apexone.json
+- id: Filebeat-trendmicro-apexcentral-Dashboard
+  file: Filebeat-trendmicro-apexcentral.json

@@ -1,0 +1,9 @@
+- key: trendmicro
+  title: "trendmicro"
+  description: >
+    trendmicro Module
+  fields:
+    - name: trendmicro
+      type: group
+      description: >
+      fields:
